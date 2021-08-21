@@ -11,9 +11,6 @@
 * [Features](https://github.com/Drawethree/UltraBackpacks/wiki/Features)
 * [Setup](https://github.com/Drawethree/UltraBackpacks/wiki/Setup)
 * [Commands & Permissions](https://github.com/Drawethree/UltraBackpacks/wiki/Commands-&-Permissions)
-* [Placeholders](https://github.com/Drawethree/UltraBackpacks/wiki/Placeholders)
-* [Refund Policy](https://github.com/Drawethree/UltraBackpacks/blob/main/refund-policy.pdf)
-* [Terms of Service](https://github.com/Drawethree/UltraBackpacks/blob/main/terms-of-service.pdf)
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/UltraBackpacks/wiki/config.yml)
 
