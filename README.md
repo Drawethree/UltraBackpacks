@@ -20,6 +20,14 @@
 * [Developer API](https://github.com/Drawethree/UltraBackpacks/wiki/Developer-API)
 
 # Screenshots
+![Image1](https://imgur.com/VeSq3Ok.png)
+![Image2](https://imgur.com/XfWSpTa.gif)
+![Image3](https://imgur.com/7pfDoCb.png)
+![Image4](https://imgur.com/zSzqbSp.gif)
+![Image5](https://imgur.com/o46KFI3.png)
+![Image6](https://imgur.com/JXJETOw.gif)
+![Image7](https://imgur.com/6EysgEx.png)
+![Image8](https://imgur.com/zVKy6kw.gif)
 
 
 
