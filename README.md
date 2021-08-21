@@ -27,8 +27,4 @@
 ![Image5](https://imgur.com/o46KFI3.png)
 ![Image6](https://imgur.com/JXJETOw.gif)
 ![Image7](https://imgur.com/6EysgEx.png)
-![Image8](https://imgur.com/zVKy6kw.gif)
-
-
-
-
+![Image8](https://imgur.com/HFFLUi9.gif)
