@@ -1,4 +1,4 @@
-![UltraBackpacks Header](https://imgur.com/rCu0Zag.png)
+![UltraBackpacks Header](https://imgur.com/eiP6dmn.png)
 # UltraBackpacks
 ![Issues](https://img.shields.io/github/issues/Drawethree/UltraBackpacks?label=Issues&logo=GitHub)
 ![Discord](https://img.shields.io/discord/505846258867372033?label=Discord&logo=Discord)
